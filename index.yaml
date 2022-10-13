@@ -8,6 +8,6 @@ entries:
     name: social-distancing invalid
     type: application
     urls:
-    - https://raw.githubusercontent.com/yaseenhussain/helm-test/master/social-distancing-retail-invalid.tgz
+    - https://github.com/niteshk9894/helm/raw/master/social-distancing-retail-invalid.tgz
     version: "1.0.0"
 generated: "2021-05-26T14:59:11.656550034-04:00"
